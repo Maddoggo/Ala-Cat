@@ -1,0 +1,153 @@
+p{
+	background-color:#66ccff;
+	color:#ff6666;
+	font-size: 100px;
+	text-align: center;
+	
+
+}
+
+/**/
+
+}
+#coconut{
+	position:absolute;
+
+}
+#banana{
+	position: relative;
+}
+
+.grid-container{
+	display: grid;
+	grid-template-rows: auto;
+	grid-template-columns:  auto;
+/*	padding: 10px
+*/}
+.grid-item{
+	padding:100px;
+	font-size:20px;
+	text-align: center;
+}
+
+.button{
+	background-color: #3ca36f
+;
+	margin: 0 auto;
+	border-color: :#3ca36f;
+	border-width: thick;
+	text-align:center;
+	font-size: 30px;
+	text-decoration: bold;
+	color: white;
+	padding: 30px 15px;
+	transition-duration: 0.4s;
+	width: 100%
+	
+
+}
+a{
+}
+.button:hover{
+	background-color:#b7f7d7
+; 
+	border-color: #b7f7d7;
+	margin: 0 auto
+
+}
+button{
+	margin: 0 auto;
+}
+.mySlides{
+	display: none;
+}
+body{
+	background: #000000
+}
+
+img{
+	border:10px;
+	border-style: solid;
+	border-color: #bbd3f9;
+	width: 600px;
+	height: 600px;
+}
+#arrow{
+	width:150px;
+	height:100px;
+	border-color: black;
+/*	margin-left: 60px;*/
+	display: inline-block;
+}
+#backarrow{
+	-moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+        width:150px;
+	height:100px;
+	border-color: black;
+
+	display: inline-block;
+}
+.arrow-container{
+	display: grid;
+	grid-template-columns: auto auto auto;
+	grid-template-rows: auto;
+
+}
+h1{
+	color: white;
+	text-align: center;
+	margin-left: 350px;
+	margin-right: 350px;
+
+}
+#aboutmoi{
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	
+
+}
+
+.lola-container{
+	display: grid;
+	grid-template-columns: auto auto;
+	/*margin-left: 50px;*/
+	/*margin-right: 50px;*/
+	
+}
+.lola-item{
+	width: 600px;
+	height: 900px;
+
+}
+#lolali{
+	width: 600px;
+	height: 900px;
+}
+
+.mebutton:hover{
+	background-color:#f4426e
+; 
+	border-color: #f4426e;
+	margin: 0 auto
+}
+.mebutton{
+	background-color: #ff6666
+;
+	margin: 0 auto;
+	border-color: :#ff6666;
+	border-width: thick;
+	text-align:center;
+	font-size: 30px;
+	text-decoration: bold;
+	color: white;
+	padding: 30px 15px;
+	transition-duration: 0.4s;
+	width: 100%
+}
+
